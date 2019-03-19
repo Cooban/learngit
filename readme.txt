@@ -3,3 +3,4 @@ Git is free software xiugai.
 fuck put your hands up
 create a new branch is quickk and simple hahah
 no-ff
+stash
